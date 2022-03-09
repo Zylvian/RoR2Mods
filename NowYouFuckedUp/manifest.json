@@ -1,8 +1,8 @@
 ﻿{
-	"name": "FuckedUp",
+	"name": "AngryLemurians",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Zylvian",
-	"description": "Testingman.",
+	"website_url": "https://github.com/Zylvian/RoR2Mods/tree/main/NowYouFuckedUp",
+	"description": "The Elder Lemurians seem to think that you have fucked up.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
 		"tristanmcpherson-R2API-4.0.11",

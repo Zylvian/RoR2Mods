@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdVXR+zsxDsyA6Ny576cPhSLz4i7jexU/EbrgmlwdDWBBk+MOX4V2jjB9B2kWkbPErPyjFbTcxvN5JWwCoWjoQ==",
+  "dgSpecHash": "6d54gYGZ726NkyZVdeTNLIJabjnM8VXUBzuHHp+CqN3v/SKDexmfgjjEcZF52Bgh9S5Hi4Xv31YQM1UeImn7qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
+  "projectFilePath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jarle\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Jarle\\.nuget\\packages\\bepinex.baselib\\5.4.19\\bepinex.baselib.5.4.19.nupkg.sha512",

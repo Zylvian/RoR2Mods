@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj": {}
+    "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj": {
+    "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
+        "projectUniqueName": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
         "projectName": "NowYouFuckedUp",
-        "projectPath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
+        "projectPath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\NowYouFuckedUp.csproj",
         "packagesPath": "C:\\Users\\Jarle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NowYouFuckedUp\\obj\\",
+        "outputPath": "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NowYouFuckedUp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\R2Boilerplate-master\\NowYouFuckedUp\\NuGet.Config",
+          "C:\\Users\\Jarle\\Documents\\-- JARLE --\\ROR2MODDINGF\\ACTUAL FOLDER\\RoR2Mods\\NowYouFuckedUp\\NuGet.Config",
           "C:\\Users\\Jarle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

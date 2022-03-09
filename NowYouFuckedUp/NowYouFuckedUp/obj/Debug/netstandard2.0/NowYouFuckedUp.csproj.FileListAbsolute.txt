@@ -24,3 +24,16 @@ C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\NowYouFuc
 C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.csproj.CopyComplete
 C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.dll
 C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.pdb
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\bin\Debug\netstandard2.0\NowYouFuckedUp.deps.json
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\bin\Debug\netstandard2.0\NowYouFuckedUp.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\bin\Debug\netstandard2.0\NowYouFuckedUp.pdb
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\bin\Debug\netstandard2.0\KinematicCharacterController.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.csproj.AssemblyReference.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.AssemblyInfoInputs.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.AssemblyInfo.cs
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.csproj.CoreCompileInputs.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.csproj.CopyComplete
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\ACTUAL FOLDER\RoR2Mods\NowYouFuckedUp\NowYouFuckedUp\obj\Debug\netstandard2.0\NowYouFuckedUp.pdb
