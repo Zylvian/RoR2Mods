@@ -1,0 +1,11 @@
+﻿{
+	"name": "FuckedUp",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Zylvian",
+	"description": "Testingman.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"tristanmcpherson-R2API-4.0.11",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}

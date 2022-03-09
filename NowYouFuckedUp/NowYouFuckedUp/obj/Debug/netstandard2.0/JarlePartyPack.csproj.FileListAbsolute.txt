@@ -1,0 +1,13 @@
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\bin\Debug\netstandard2.0\JarlePartyPack.deps.json
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\bin\Debug\netstandard2.0\JarlePartyPack.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\bin\Debug\netstandard2.0\JarlePartyPack.pdb
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\bin\Debug\netstandard2.0\KinematicCharacterController.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.csproj.AssemblyReference.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.AssemblyInfoInputs.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.AssemblyInfo.cs
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.csproj.CoreCompileInputs.cache
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.csproj.CopyComplete
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.dll
+C:\Users\Jarle\Documents\-- JARLE --\ROR2MODDINGF\R2Boilerplate-master\R2Modding - JarlePartyPack\ExamplePlugin\obj\Debug\netstandard2.0\JarlePartyPack.pdb

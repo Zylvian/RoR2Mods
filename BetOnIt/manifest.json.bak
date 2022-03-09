@@ -1,0 +1,11 @@
+﻿{
+	"name": "BetOnIt",
+	"version_number": "1.0.2",
+	"website_url": "https://github.com/Zylvian",
+	"description": "Have Zac Efron blare BET ON IT every time you bet on it.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"tristanmcpherson-R2API-4.0.11",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
