@@ -1,15 +1,14 @@
-# Bet On It
+# Angry Lemurians
 
-This mod adds the highly requested functionality of Zac Efron blaring "BET ON IT" after every Altar of Luck purchase.
+The Elder Lemurians seem to think that you have fucked up.
+
+https://streamable.com/0on60w
 
 ## Changelog
 
-**1.0.2**
-* Thumbnail update after much appreciated Discord feedback.
-
 **1.0.1**
-* Added an actual .dll.
+* Restructured the entire mod to configure the Elder Lemurian prefab as opposed to playing on events.
+* In short: better performance, less bugs.
 
 **1.0.0**
-
-* Mod created.
+* Added angry Lemurians to the game.
